@@ -1,12 +1,9 @@
 ---
-title: Fishing
+title: Google Ventures 不是所有的产品都要看着漂亮
 layout: post
-guid: urn:uuid:9a45410a-47a1-45f9-bd9c-f6e3b97651e2
+guid: urn:uuid:8d9d7a81-ed62-40a4-97d7-989c168fc5d8
 tags:
-  - photography
-  - hasselblad
-  - 500cm
-  - cf80
+  - translation
 ---
 
 <p>翻译来自John Zeratsky的文章 
