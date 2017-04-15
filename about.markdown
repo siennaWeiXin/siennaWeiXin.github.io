@@ -11,7 +11,7 @@ who involved in
 
 > [github](https://github.com/siennaWeiXin)
 
-or follow 
+follow 
 
 > [@Sienna_Wei](https://twitter.com/Sienna_Wei)
 
