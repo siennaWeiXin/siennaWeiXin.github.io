@@ -5,6 +5,9 @@ guid: urn:uuid:7ce253a7-8f42-47a2-9dfd-60fc5653b838
 tags:
   - translation
 ---
+
+
+
 <p>翻译来自Bruno Skvorc的文章 <a href= "http://www.sitepoint.com/introduction-r-rstudio/">Intuoduction to R and RStadio</a>
 
 <p>随着计算能力的增加，导致有大量的免费数据可访问。人们用数据来记录他们的运动量，卡路里消耗，健康程度和睡眠质量；政府出版数据研究报告；公司在用户测试的时候也需要数据分析。 </p>
