@@ -5,18 +5,14 @@ layout: page
 
 a
 
-> Minimalist | Appleist | Unixer | Coder
+> Designer | Creator | Coder
 
 who involved in 
 
-> [github](https://github.com/waynezhang)
-
-mail 
-
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
+> [github](https://github.com/siennaWeiXin)
 
 or follow 
 
-> [@o_lll](https://twitter.com/#!/o_lll)
+> [@Sienna_Wei](https://twitter.com/Sienna_Wei)
 
 to reach me
