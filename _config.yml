@@ -22,8 +22,8 @@ navigations:
     class: fa fa-film
     href: http://siennawei.lofter.com/
   - title: Design
-    class: fa fa-film
-    href: http://siennawei.lofter.com/
+    class: fa fa-anchor
+    href: /index.html
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
